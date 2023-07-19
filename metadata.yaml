@@ -1,0 +1,41 @@
+_repo: Through-the-gates-of-the-silver-key_71167
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lovecraft, H. P. (Howard Phillips)
+    aliases:
+    - Lovecraft, Howard Phillips
+    - Littlewit, Humphrey
+    - Lovecraft, H.P.
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '34724'
+    url: http://www.gutenberg.org/2009/agents/34724
+    wikipedia: https://en.wikipedia.org/wiki/H._P._Lovecraft
+  - agent_name: Price, E. Hoffmann
+    aliases:
+    - Price, E. H. (E. Hoffmann)
+    - Price, E. Hoffman
+    birthdate: 1898
+    deathdate: 1988
+    gutenberg_agent_id: '52792'
+    url: http://www.gutenberg.org/2009/agents/52792
+    wikipedia: https://en.wikipedia.org/wiki/E._Hoffmann_Price
+description: ''
+gutenberg_issued: '2023-07-11'
+identifiers:
+  gutenberg: '71167'
+language: en
+pgterms:marc905: 20230309062224lovecraft
+pgterms:marc906: '1934'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bPopular Fiction Publishing Company, $c1934.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Through the gates of the silver key
+url: http://www.gutenberg.org/ebooks/71167

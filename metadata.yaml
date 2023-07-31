@@ -1,5 +1,8 @@
 _repo: Through-the-gates-of-the-silver-key_71167
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71167-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lovecraft, H. P. (Howard Phillips)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52792
     wikipedia: https://en.wikipedia.org/wiki/E._Hoffmann_Price
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71167#Through-the-gates-of-the-silver-key
 gutenberg_issued: '2023-07-11'
 identifiers:
   gutenberg: '71167'
